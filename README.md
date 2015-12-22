@@ -1,5 +1,7 @@
 # Visualization-of-differences-in-microbial-community-structure
-Corresponding data and commands forthe post: http://microgenomix.com/2015/12/22/how-to-analyze-microbial-community-structure/
+This folder is connected to the following post:
+http://microgenomix.com/2015/12/22/how-to-analyze-microbial-community-structure/
+
 An R script and example data for the visualization of differences in microbial community structure
 
 
